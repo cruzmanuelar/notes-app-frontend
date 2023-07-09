@@ -1,0 +1,12 @@
+.Row-Task-Edit-Card{
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 5px;
+    border-radius: 7px;
+    transition: 0.2s;
+}
+
+.Row-Task-Edit-Card:hover{
+    background-color: #eee6e6;
+}
